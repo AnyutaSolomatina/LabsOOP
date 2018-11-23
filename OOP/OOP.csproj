@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractCar.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="HondaCivic.cs" />
+    <Compile Include="LadaPriora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RenaultLogan.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
